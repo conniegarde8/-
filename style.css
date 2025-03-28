@@ -3,12 +3,10 @@
 /* 给你的按钮添加自定义样式 */
 #my_injected_send_area_button {
   /* 示例：改变图标颜色 */
-  color: orange;
   /* 可以调整 margin, padding, font-size 等 */
   /* margin-right: 8px; /* 在 JS 中添加了，这里也可以加 */ */
 }
 
 #my_injected_send_area_button:hover {
   /* 鼠标悬停时的样式 */
-  color: darkorange;
 }
