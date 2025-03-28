@@ -1,0 +1,11 @@
+{
+    "display_name": "Inject Send Button",
+    "loading_order": 15,  // Load slightly later to ensure target elements exist
+    "requires": [],
+    "optional": [],
+    "js": "index.js",
+    "css": "style.css", // Optional, for styling
+    "author": "Your Name",
+    "version": "1.0.0",
+    "homePage": ""
+}
