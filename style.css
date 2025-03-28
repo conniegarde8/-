@@ -1,0 +1,14 @@
+/* Add some spacing around the injected button */
+#my_injected_button {
+    margin-left: 5px; /* Space from textarea elements */
+    margin-right: 8px; /* Space before the send button */
+    font-size: 1.1em; /* Example: Make icon slightly larger */
+    color: #a0a0ff; /* Example: Give it a distinct color */
+    align-self: center; /* Align vertically like other buttons */
+    display: flex;      /* Needed for alignment */
+    align-items: center;/* Needed for alignment */
+}
+
+#my_injected_button:hover {
+    color: #c0c0ff; /* Example hover color */
+}
